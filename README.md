@@ -50,7 +50,7 @@ Also aspiring to become an **Avionics Expert**, blending my love for technology 
 
 ### 📂 Featured Projects
 - [PowerBI Data Survey Dashboard](https://github.com/Bawo-Abdoulie/PowerBI-Data-Survey-Dashboard)
-- [BMI Calculator](#)
+- [BMI Calculator](https://github.com/Bawo-Abdoulie/BMI-Calculator)
 
 ---
 
