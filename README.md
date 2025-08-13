@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abdoulie Bawo</h1>
-<h3 align="center">Final Year B.Tech CSE | Data Science Enthusiast | Aspiring Avionics Expert</h3>
+<h3 align="center">Final Year B.Tech CSE | Data Science Enthusiast | Graphics Designer | Aspiring Avionics Expert</h3>
 
 ---
 
