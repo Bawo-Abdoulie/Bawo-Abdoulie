@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Abdoulie Bawo</h1>
-<h3 align="center">Final Year B.Tech CSE | Data Science Enthusiast | Graphics Designer | Aspiring Avionics Expert</h3>
+<h3 align="center">Final Year B.Tech CSE | Data Science Enthusiast | Graphics Designer</h3>
 
 ---
 
 ### 🚀 About Me
 I am **Abdoulie Bawo**, a final-year B.Tech Computer Science & Engineering student.  
 Passionate about **Data Science**, problem-solving, and applying analytical skills to real-world projects.  
-Also aspiring to become an **Avionics Expert**, blending my love for technology and aviation.  
+Also aspiring to become an **Data Scientist**, blending my love for technology and data.  
 
 ---
 
