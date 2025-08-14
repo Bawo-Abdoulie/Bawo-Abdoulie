@@ -51,6 +51,8 @@ Also aspiring to become an **Data Scientist**, blending my love for technology a
 ### 📂 Featured Projects
 - [PowerBI Data Survey Dashboard](https://github.com/Bawo-Abdoulie/PowerBI-Data-Survey-Dashboard)
 - [BMI Calculator](https://github.com/Bawo-Abdoulie/BMI-Calculator)
+- [Automated File Sorter](https://github.com/Bawo-Abdoulie/Automated-File-Sorter)
+
 
 ---
 
