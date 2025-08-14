@@ -6,7 +6,7 @@
 ### 🚀 About Me
 I am **Abdoulie Bawo**, a final-year B.Tech Computer Science & Engineering student.  
 Passionate about **Data Science**, problem-solving, and applying analytical skills to real-world projects.  
-Also aspiring to become an **Data Scientist**, blending my love for technology and data.  
+Also aspiring to become a **Data Scientist**, blending my love for technology and data.  
 
 ---
 
